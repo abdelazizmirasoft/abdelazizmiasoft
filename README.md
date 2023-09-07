@@ -1,6 +1,6 @@
 # Welecome to `abdelazizmirasoft`'s (Aziz) profile! :wave:
 ## :briefcase: Software Engineer
-A highly motivated Software Engineer with 6+ years of experience in SDLC and coding. Passionate about Natural Language Processing and Machine Learning, and holds a MS in Artificial Intelligence. My programming skills span various languages including PHP, Python, JavaScript, Java and Go. I‘m characterized by outstanding problem-solving abilities and a logical structured way of interpreting information.
+A highly motivated Software Engineer with 7+ years of experience in SDLC and coding. Passionate about Natural Language Processing and Machine Learning, and holds a MS in Artificial Intelligence. My programming skills span various languages including PHP, Python, JavaScript, Java and Go. I‘m characterized by outstanding problem-solving abilities and a logical structured way of interpreting information.
 
 ---
 
